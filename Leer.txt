@@ -1,0 +1,8 @@
+General about Pinter's presentations:
+
+1- Version control: Keep track of changes. 
+2- Git is the most used tool for keeping version control. 
+3- Dropbox: Not the best! Issues at workflow management. 
+4- Git is intuitive. 
+5- Version control: Any software has not ever been written under the "date and initial" method. 
+6- Can handle several languages. 
